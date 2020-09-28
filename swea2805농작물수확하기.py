@@ -27,4 +27,4 @@ for t in range(1, tc+1):
             s += 1
             e -= 1
     print('#{} {}'.format(t, total))
-    #
+    # iluusutu
